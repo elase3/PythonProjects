@@ -1,2 +1,12 @@
 # PythonProjects
-here i will put all python project i made with code and exe file for free
+# YouTube Downlaoder
+
+
+## Requirements
+/sdfdfdsdgdg
+* Python v3.9
+* proxy list
+
+
+
+
