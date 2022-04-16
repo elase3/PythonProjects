@@ -3,8 +3,9 @@
 
 
 ## Requirements
-* Python v3.9
+* Python v3.8 or above
 * VsCode or PyCharm
+* I recommend to install Pycharm program, its stable for code i made 
 
 ## Install Requirements
 ```
